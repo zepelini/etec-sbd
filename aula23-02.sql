@@ -1,4 +1,6 @@
-CREATE DATABASE aula;
+CREATE DATABASE aula_select;
+
+USE aula_select;
 
 CREATE TABLE cliente (
     id INT UNSIGNED NOT NULL AUTO_INCREMENT,
