@@ -2,7 +2,6 @@ CREATE DATABASE IF NOT EXISTS aula_select;
 
 USE aula_select;
 
-DROP TABLE cliente;
 CREATE TABLE cliente (
     id INT UNSIGNED NOT NULL AUTO_INCREMENT,
     nome VARCHAR(100),
